@@ -20,3 +20,9 @@ Adding my personal information.
 
 ## Activity 3
 Changing the theme color
+<p>
+    Screenshot of repo after changing theme color<br/>
+    <img src="screenshots/Activity3-1-repo.png" alt="Screenshot Activity 3-1"/><br/>
+    Screenshot of Home Page after changing theme color<br/>
+    <img src="screenshots/Activity3-2-homepage.png" alt="Screenshot Activity 3-2"/><br/>
+</p>

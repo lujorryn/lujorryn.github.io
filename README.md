@@ -17,3 +17,6 @@ Adding my personal information.
     Screenshot of Home Page after changing all personal info<br/>
     <img src="screenshots/Activity2-2-homepage.png" alt="Screenshot Activity 2-2"/><br/>
 </p>
+
+## Activity 3
+Changing the theme color

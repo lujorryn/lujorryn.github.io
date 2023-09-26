@@ -11,3 +11,9 @@ Cloning personal website repo into your own GitHub account.
 
 ## Activity 2
 Adding my personal information.
+<p>
+    Screenshot of repo after changing all personal info<br/>
+    <img src="screenshots/Activity2-1-repo.png" alt="Screenshot Activity 2-1"/><br/>
+    Screenshot of Home Page after changing all personal info<br/>
+    <img src="screenshots/Activity2-2-homepage.png" alt="Screenshot Activity 2-2"/><br/>
+</p>

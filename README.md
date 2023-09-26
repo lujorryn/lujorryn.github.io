@@ -5,3 +5,6 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ## Activity 1
 Cloning personal website repo into your own GitHub account.
+<p>
+    <img src="screenshots/Activity1-clonerepo.png" alt="Screenshot Activity 1"/>
+</p>

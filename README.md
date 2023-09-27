@@ -1,6 +1,8 @@
 # Jorryn Lu
 ECE444 Fall 2023 Lab 2 - Front-End Design
 
+Deployed Website: https://lujorryn.github.io/
+
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ## Activity 1
@@ -29,3 +31,9 @@ Changing the theme color
 
 ## Activity 4
 Create places travelled section and embed google maps
+<p>
+    Screenshot of repo after adding places travelled section<br/>
+    <img src="screenshots/Activity4-1-repo.png" alt="Screenshot Activity 4-1"/><br/>
+    Screenshot of Places Travelled<br/>
+    <img src="screenshots/Activity4-2-travelpage.png" alt="Screenshot Activity 4-2"/><br/>
+</p>

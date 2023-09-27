@@ -26,3 +26,6 @@ Changing the theme color
     Screenshot of Home Page after changing theme color<br/>
     <img src="screenshots/Activity3-2-homepage.png" alt="Screenshot Activity 3-2"/><br/>
 </p>
+
+## Activity 4
+Create places travelled section and embed google maps

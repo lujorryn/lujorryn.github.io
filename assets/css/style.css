@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #00334d;
 }
 
 /* main blockqoute */
@@ -600,7 +600,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #005380;
     height: 56px;
     line-height: 56px;
   }
@@ -689,4 +689,8 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+}
+
+.map {
+  width: 100%;
 }
